@@ -1,0 +1,618 @@
+{
+  "version": "1.0.0",
+  "channels": [
+    {
+      "id": "uy-canal-4",
+      "name": "Canal 4",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "C4",
+      "accent": "#f4b45f",
+      "streamUrl": "https://www.youtube.com/@Canal4uy",
+      "isYouTube": true
+    },
+    {
+      "id": "uy-canal-5",
+      "name": "Canal 5",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "C5",
+      "accent": "#6fd7ca",
+      "streamUrl": "https://tinyurl.com/canal5uy",
+      "isYouTube": false
+    },
+    {
+      "id": "uy-canal-10",
+      "name": "Canal 10",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "C10",
+      "accent": "#ff8ca2",
+      "streamUrl": "https://cdnw1.zetatv.com.uy/live_edge/_definst_/amlst:2267/chunklist_w1523078912_b1800000.m3u8?token=d3c39d4b-ea74-4801-81c9-7921a42afa91",
+      "isYouTube": false
+    },
+    {
+      "id": "uy-canal-12",
+      "name": "Canal 12",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "C12",
+      "accent": "#7ebdff",
+      "streamUrl": "https://www.youtube.com/channel/UCimPJKAbuM6z6b6DPZz86Mw",
+      "isYouTube": true
+    },
+    {
+      "id": "uy-vtv",
+      "name": "Canal VTV",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "VTV",
+      "accent": "#9ce48d",
+      "streamUrl": "https://www.youtube.com/@VTVSitioOficial",
+      "isYouTube": true
+    },
+    {
+      "id": "uy-tv-ciudad",
+      "name": "TV Ciudad",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "TVC",
+      "accent": "#65d4d4",
+      "streamUrl": "https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzg3MDczNzA3JnJhbmRvbT1kWk5kbDY0NGtzJmMtaXA9MTg2LjU0LjIxNC4xOTgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSxkMGVlYWIxM2E4MjA1YWU0MWEyOTdjMGNmNzRlMWRjMTI4YmU1YzE4NDIzYzFkMGNlZWM4YzY3ODVlNTFmNTkx/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "uy-a-mas-v",
+      "name": "Canal A+V",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "A+V",
+      "accent": "#b99cff",
+      "streamUrl": "https://www.youtube.com/CanalAmasV",
+      "isYouTube": true
+    },
+    {
+      "id": "sports-gol-tv",
+      "name": "Gol TV",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Fútbol y programación deportiva.",
+      "logoText": "GOL",
+      "accent": "#f4b45f",
+      "streamUrl": "http://177.234.249.178:8888/GOLTV/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-tyc-sports",
+      "name": "TyC Sports",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Noticias y eventos deportivos.",
+      "logoText": "TYC",
+      "accent": "#ff8ca2",
+      "streamUrl": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn",
+      "name": "ESPN",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Deportes internacionales en vivo.",
+      "logoText": "ESPN",
+      "accent": "#ff3333",
+      "streamUrl": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn2",
+      "name": "ESPN2",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Deportes internacionales en vivo.",
+      "logoText": "E2",
+      "accent": "#ff4d4d",
+      "streamUrl": "http://190.108.83.69:8000/play/a0an/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn3",
+      "name": "ESPN3",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Eventos deportivos exclusivos.",
+      "logoText": "E3",
+      "accent": "#ff6b6b",
+      "streamUrl": "http://190.83.2.182:8090/ESPN3/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn4",
+      "name": "ESPN4",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva adicional.",
+      "logoText": "E4",
+      "accent": "#ff8c8c",
+      "streamUrl": "http://181.78.197.59:8000/play/a07n/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn5",
+      "name": "ESPN5",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva adicional.",
+      "logoText": "E5",
+      "accent": "#ffa3a3",
+      "streamUrl": "http://190.108.83.69:8000/play/a032/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn6",
+      "name": "ESPN6",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva adicional.",
+      "logoText": "E6",
+      "accent": "#ffb3b3",
+      "streamUrl": "http://190.108.83.69:8000/play/a02w/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn7",
+      "name": "ESPN7",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva adicional.",
+      "logoText": "E7",
+      "accent": "#ffc2c2",
+      "streamUrl": "http://190.108.83.69:8000/play/a049/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn8",
+      "name": "ESPN8",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Deportes alternativos y especiales.",
+      "logoText": "E8",
+      "accent": "#ffd1d1",
+      "streamUrl": "https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espnu",
+      "name": "ESPNU",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Deportes universitarios.",
+      "logoText": "U",
+      "accent": "#ff6666",
+      "streamUrl": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-espn-premium",
+      "name": "ESPN Premium",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva premium.",
+      "logoText": "P",
+      "accent": "#ff1a1a",
+      "streamUrl": "http://190.108.83.69:8000/play/a03w/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-fox-deportes",
+      "name": "Fox Deportes",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Deportes en español desde Estados Unidos.",
+      "logoText": "FOX",
+      "accent": "#ff7f50",
+      "streamUrl": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "sports-fox-sports",
+      "name": "FoxSports",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva internacional.",
+      "logoText": "FS",
+      "accent": "#b99cff",
+      "streamUrl": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-france24",
+      "name": "France24",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Noticias internacionales en español.",
+      "logoText": "F24",
+      "accent": "#7ebdff",
+      "streamUrl": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-24hs",
+      "name": "24hs",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Información de actualidad durante todo el día.",
+      "logoText": "24H",
+      "accent": "#ff7e71",
+      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-dw",
+      "name": "DW",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Noticias y análisis internacionales.",
+      "logoText": "DW",
+      "accent": "#65d4d4",
+      "streamUrl": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-cnn",
+      "name": "CNN",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Noticias de última hora.",
+      "logoText": "CNN",
+      "accent": "#ff8ca2",
+      "streamUrl": "http://190.108.83.69:8000/play/a023/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-cnn-chile",
+      "name": "CNN Chile",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Actualidad y noticias de Chile.",
+      "logoText": "CNN",
+      "accent": "#f4b45f",
+      "streamUrl": "http://190.108.83.69:8000/play/a03p/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-euronews",
+      "name": "EuroNews",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Información europea e internacional.",
+      "logoText": "EU",
+      "accent": "#9ce48d",
+      "streamUrl": "https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-rt",
+      "name": "RT",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Noticias y análisis globales.",
+      "logoText": "RT",
+      "accent": "#b99cff",
+      "streamUrl": "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-telesur",
+      "name": "Telesur",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Información de América Latina.",
+      "logoText": "TS",
+      "accent": "#6fd7ca",
+      "streamUrl": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-cgtn",
+      "name": "CGTN",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Noticias internacionales.",
+      "logoText": "CGTN",
+      "accent": "#7ebdff",
+      "streamUrl": "http://190.108.83.69:8000/play/a07h/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-hispan-tv",
+      "name": "Hispan TV",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Actualidad y documentales.",
+      "logoText": "HTV",
+      "accent": "#ffb773",
+      "streamUrl": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-catalunya",
+      "name": "Catalunya",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Programación de Cataluña.",
+      "logoText": "CAT",
+      "accent": "#9ce48d",
+      "streamUrl": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-history",
+      "name": "History",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Historia y documentales.",
+      "logoText": "HIS",
+      "accent": "#f4b45f",
+      "streamUrl": "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-history2",
+      "name": "History2",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Historia y cultura.",
+      "logoText": "H2",
+      "accent": "#ff8ca2",
+      "streamUrl": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-nat-geo",
+      "name": "Nat Geo",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Ciencia, naturaleza y exploración.",
+      "logoText": "NG",
+      "accent": "#88b6ff",
+      "streamUrl": "http://45.162.193.35/NATGEO/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "br-band-rs",
+      "name": "BAND",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Programación regional de Brasil.",
+      "logoText": "BAND",
+      "accent": "#79d2ff",
+      "streamUrl": "http://45.190.28.50/BAND_HD/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "br-record",
+      "name": "Record",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Programación general brasileña.",
+      "logoText": "REC",
+      "accent": "#ff8ca2",
+      "streamUrl": "http://45.190.28.50/RECORD/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "br-record-news",
+      "name": "Record News",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Noticias de Brasil.",
+      "logoText": "RN",
+      "accent": "#88b6ff",
+      "streamUrl": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+      "isYouTube": false,
+      "alternativeUrls": [
+        "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8",
+        "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL"
+      ]
+    },
+    {
+      "id": "br-rede-tv",
+      "name": "Rede TV",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Entretenimiento y actualidad.",
+      "logoText": "RTV",
+      "accent": "#65d4d4",
+      "streamUrl": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "br-sbt",
+      "name": "SBT",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Televisión brasileña para toda la familia.",
+      "logoText": "SBT",
+      "accent": "#7ebdff",
+      "streamUrl": "http://45.190.28.50/SBT_HD/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "br-globo",
+      "name": "Globo",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Noticias, novelas y entretenimiento.",
+      "logoText": "GLO",
+      "accent": "#9ce48d",
+      "streamUrl": "http://45.190.28.50/GLOBO_HD/index.m3u8",
+      "isYouTube": false,
+      "alternativeUrls": [
+        "http://138.255.2.6:8084/GLOBOHD/index.m3u8"
+      ]
+    },
+    {
+      "id": "br-globo-news",
+      "name": "Globo News",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Noticias de Brasil y del mundo.",
+      "logoText": "GN",
+      "accent": "#b99cff",
+      "streamUrl": "http://79.127.238.228:14093/",
+      "isYouTube": false,
+      "alternativeUrls": [
+        "http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8"
+      ]
+    },
+    {
+      "id": "br-cnn-brasil-hd",
+      "name": "CNN Brasil HD",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Noticias brasileñas en alta definición.",
+      "logoText": "CNN",
+      "accent": "#ff7e71",
+      "streamUrl": "https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "br-history",
+      "name": "History",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Historia y documentales.",
+      "logoText": "HIS",
+      "accent": "#f4b45f",
+      "streamUrl": "http://45.190.28.50/HISTORY_HD/index.m3u8",
+      "isYouTube": false,
+      "alternativeUrls": [
+        "http://45.177.114.114/HISTORY/index.m3u8"
+      ]
+    },
+    {
+      "id": "br-history-2",
+      "name": "History 2",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Historia y cultura.",
+      "logoText": "H2",
+      "accent": "#6fd7ca",
+      "streamUrl": "http://45.190.28.50/H2_HD/index.m3u8",
+      "isYouTube": false,
+      "alternativeUrls": [
+        "http://45.177.114.114/HISTORY_2/index.m3u8"
+      ]
+    },
+    {
+      "id": "ar-a24",
+      "name": "A24",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y análisis argentinos.",
+      "logoText": "A24",
+      "accent": "#ff7e71",
+      "streamUrl": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-canal-26",
+      "name": "Canal 26",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y actualidad.",
+      "logoText": "C26",
+      "accent": "#7ebdff",
+      "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-telefe",
+      "name": "Telefe",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Entretenimiento argentino.",
+      "logoText": "TEL",
+      "accent": "#ff8ca2",
+      "streamUrl": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
+      "isYouTube": false,
+      "alternativeUrls": [
+        "http://201.190.41.246:8822/play/a036/index.m3u8"
+      ]
+    },
+    {
+      "id": "ar-el-nueve",
+      "name": "El Nueve",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y variedades.",
+      "logoText": "N9",
+      "accent": "#b99cff",
+      "streamUrl": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-el-trece",
+      "name": "El Trece",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Entretenimiento y ficción argentina.",
+      "logoText": "T13",
+      "accent": "#67d69f",
+      "streamUrl": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-c5n",
+      "name": "C5N",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y actualidad en vivo.",
+      "logoText": "C5N",
+      "accent": "#ff9e6d",
+      "streamUrl": "https://www.youtube.com/c/c5n/live",
+      "isYouTube": true
+    },
+    {
+      "id": "ar-ln-mas",
+      "name": "LN+",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y análisis de La Nación.",
+      "logoText": "LN+",
+      "accent": "#c9a3ff",
+      "streamUrl": "https://www.youtube.com/c/LaNacionMas/live",
+      "isYouTube": true
+    },
+    {
+      "id": "ar-tn",
+      "name": "TN",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Todo Noticias, información 24 horas.",
+      "logoText": "TN",
+      "accent": "#ff5c5c",
+      "streamUrl": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-dsports",
+      "name": "DSports",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Deportes argentinos e internacionales.",
+      "logoText": "DSP",
+      "accent": "#4ecdc4",
+      "streamUrl": "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8",
+      "isYouTube": false
+    }
+  ]
+}
