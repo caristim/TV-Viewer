@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -10,7 +10,7 @@
       "logoText": "C4",
       "accent": "#f4b45f",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314442.ts",
-      "isYouTube": true
+      "isYouTube": false
     },
     {
       "id": "uy-VTV Plus",
@@ -21,7 +21,7 @@
       "logoText": "VTV+",
       "accent": "#f4b45f",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1103872.ts",
-      "isYouTube": true
+      "isYouTube": false
     },
     {
       "id": "uy-DirecTV Uruguay",
@@ -32,7 +32,7 @@
       "logoText": "DSPorts",
       "accent": "#f4b45f",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314448.ts",
-      "isYouTube": true
+      "isYouTube": false
     },
     {
       "id": "uy-canal-5",
@@ -65,7 +65,7 @@
       "logoText": "LaTele",
       "accent": "#7ebdff",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1371924.ts",
-      "isYouTube": true
+      "isYouTube": false
     },
     {
       "id": "uy-vtv",
@@ -383,7 +383,10 @@
       "description": "Programación de Cataluña.",
       "logoText": "CAT",
       "accent": "#9ce48d",
-      "streamUrl": "https://ztnr.rtve.es/ztnr/4952053.m3u8", "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/663362.ts"
+      "streamUrl": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+      "alternativeUrls": [
+        "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/663362.ts"
+      ],
       "isYouTube": false
     },
     {
@@ -566,7 +569,6 @@
       "accent": "#ff7e71",
       "streamUrl": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
       "isYouTube": false
-
     },
     {
       "id": "ar-Crónica TV",
@@ -635,7 +637,6 @@
       "isYouTube": false
     },
     {
-     
       "id": "ar-telefe",
       "name": "Telefe",
       "country": "argentina",
@@ -647,6 +648,7 @@
       "isYouTube": false,
       "alternativeUrls": [
         "http://201.190.41.246:8822/play/a036/index.m3u8"
+      ]
     },
     {
       "id": "ar-TV Pública",
@@ -660,9 +662,9 @@
       "isYouTube": false,
       "alternativeUrls": [
         "http://201.190.41.246:8822/play/a036/index.m3u8"
+      ]
     },
     {
-
       "id": "ar-el-nueve",
       "name": "El Nueve",
       "country": "argentina",
