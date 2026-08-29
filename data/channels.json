@@ -9,7 +9,29 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "C4",
       "accent": "#f4b45f",
-      "streamUrl": "https://www.youtube.com/@Canal4uy",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314442.ts",
+      "isYouTube": true
+    },
+    {
+      "id": "uy-VTV Plus",
+      "name": "VTV+",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "VTV+",
+      "accent": "#f4b45f",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1103872.ts",
+      "isYouTube": true
+    },
+    {
+      "id": "uy-DirecTV Uruguay",
+      "name": "DSports",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "DSPorts",
+      "accent": "#f4b45f",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314448.ts",
       "isYouTube": true
     },
     {
@@ -31,7 +53,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "C10",
       "accent": "#ff8ca2",
-      "streamUrl": "https://cdnw1.zetatv.com.uy/live_edge/_definst_/amlst:2267/chunklist_w1523078912_b1800000.m3u8?token=d3c39d4b-ea74-4801-81c9-7921a42afa91",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314443.ts",
       "isYouTube": false
     },
     {
@@ -40,9 +62,9 @@
       "country": "uruguay",
       "category": "Uruguay",
       "description": "Señal de televisión uruguaya.",
-      "logoText": "C12",
+      "logoText": "LaTele",
       "accent": "#7ebdff",
-      "streamUrl": "https://www.youtube.com/channel/UCimPJKAbuM6z6b6DPZz86Mw",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1371924.ts",
       "isYouTube": true
     },
     {
@@ -233,6 +255,17 @@
       "isYouTube": false
     },
     {
+      "id": "BandpSorts",
+      "name": "BandpSorts",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva internacional.",
+      "logoText": "BS",
+      "accent": "#b99cff",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/868669.ts",
+      "isYouTube": false
+    },
+    {
       "id": "int-france24",
       "name": "France24",
       "country": "internacionales",
@@ -339,7 +372,7 @@
       "description": "Actualidad y documentales.",
       "logoText": "HTV",
       "accent": "#ffb773",
-      "streamUrl": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1104775.ts",
       "isYouTube": false
     },
     {
@@ -350,7 +383,7 @@
       "description": "Programación de Cataluña.",
       "logoText": "CAT",
       "accent": "#9ce48d",
-      "streamUrl": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
+      "streamUrl": "https://ztnr.rtve.es/ztnr/4952053.m3u8", "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/663362.ts"
       "isYouTube": false
     },
     {
@@ -395,6 +428,17 @@
       "logoText": "BAND",
       "accent": "#79d2ff",
       "streamUrl": "http://45.190.28.50/BAND_HD/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "br-BandNews",
+      "name": "BANDNEWS",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Programación regional de Brasil.",
+      "logoText": "BANDNEWS",
+      "accent": "#79d2ff",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/868574.ts",
       "isYouTube": false
     },
     {
@@ -522,6 +566,51 @@
       "accent": "#ff7e71",
       "streamUrl": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
       "isYouTube": false
+
+    },
+    {
+      "id": "ar-Crónica TV",
+      "name": "Crónica",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y análisis argentinos.",
+      "logoText": "Crónica",
+      "accent": "#ff7e71",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/825860.ts",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-LN+",
+      "name": "LN+",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y análisis argentinos.",
+      "logoText": "LN+",
+      "accent": "#ff7e71",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/825779.ts",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-EL Nueve",
+      "name": "9",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y análisis argentinos.",
+      "logoText": "9",
+      "accent": "#ff7e71",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/653399.ts",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-América",
+      "name": "América",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y análisis argentinos.",
+      "logoText": "América",
+      "accent": "#ff7e71",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314425.ts",
+      "isYouTube": false
     },
     {
       "id": "ar-canal-26",
@@ -535,6 +624,18 @@
       "isYouTube": false
     },
     {
+      "id": "ar-C5N",
+      "name": "C5N",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y actualidad.",
+      "logoText": "C5N",
+      "accent": "#7ebdff",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314424.ts",
+      "isYouTube": false
+    },
+    {
+     
       "id": "ar-telefe",
       "name": "Telefe",
       "country": "argentina",
@@ -546,9 +647,22 @@
       "isYouTube": false,
       "alternativeUrls": [
         "http://201.190.41.246:8822/play/a036/index.m3u8"
-      ]
     },
     {
+      "id": "ar-TV Pública",
+      "name": "TV Pública",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Entretenimiento argentino.",
+      "logoText": "TVP",
+      "accent": "#ff8ca2",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314426.ts",
+      "isYouTube": false,
+      "alternativeUrls": [
+        "http://201.190.41.246:8822/play/a036/index.m3u8"
+    },
+    {
+
       "id": "ar-el-nueve",
       "name": "El Nueve",
       "country": "argentina",
