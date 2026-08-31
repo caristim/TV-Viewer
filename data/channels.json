@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -10,7 +10,7 @@
       "logoText": "C4",
       "accent": "#f4b45f",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314442.ts",
-      "isYouTube": false
+      "isYouTube": true
     },
     {
       "id": "uy-VTV Plus",
@@ -21,7 +21,7 @@
       "logoText": "VTV+",
       "accent": "#f4b45f",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1103872.ts",
-      "isYouTube": false
+      "isYouTube": true
     },
     {
       "id": "uy-DirecTV Uruguay",
@@ -32,7 +32,7 @@
       "logoText": "DSPorts",
       "accent": "#f4b45f",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314448.ts",
-      "isYouTube": false
+      "isYouTube": true
     },
     {
       "id": "uy-canal-5",
@@ -53,7 +53,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "C10",
       "accent": "#ff8ca2",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314443.ts",
+      "streamUrl": "http://149.18.45.189:80/live/TEMARA/553F7FJS/1410780.m3u8",
       "isYouTube": false
     },
     {
@@ -65,7 +65,7 @@
       "logoText": "LaTele",
       "accent": "#7ebdff",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1371924.ts",
-      "isYouTube": false
+      "isYouTube": true
     },
     {
       "id": "uy-vtv",
@@ -266,6 +266,28 @@
       "isYouTube": false
     },
     {
+      "id": "Sports-DSports1",
+      "name": "DSorts1 Argentina",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva internacional.",
+      "logoText": "BS",
+      "accent": "#b99cff",
+      "streamUrl": "http://149.18.45.189:80/live/TEMARA/553F7FJS/1410777.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "Sports-DSports2",
+      "name": "DSorts2 Argentina",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva internacional.",
+      "logoText": "BS",
+      "accent": "#b99cff",
+      "streamUrl": "http://149.18.45.189:80/live/TEMARA/553F7FJS/1410790.m3u8",
+      "isYouTube": false
+    },
+    {
       "id": "int-france24",
       "name": "France24",
       "country": "internacionales",
@@ -318,6 +340,17 @@
       "logoText": "CNN",
       "accent": "#f4b45f",
       "streamUrl": "http://190.108.83.69:8000/play/a03p/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-cnn-portugal",
+      "name": "CNN Portugal",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Actualidad y noticias de Portugal.",
+      "logoText": "CNN",
+      "accent": "#f4b45f",
+      "streamUrl": "https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8",
       "isYouTube": false
     },
     {
@@ -383,11 +416,7 @@
       "description": "Programación de Cataluña.",
       "logoText": "CAT",
       "accent": "#9ce48d",
-      "streamUrl": "https://ztnr.rtve.es/ztnr/4952053.m3u8",
-      "alternativeUrls": [
-        "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/663362.ts"
-      ],
-      "isYouTube": false
+      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8"
     },
     {
       "id": "int-history",
@@ -420,6 +449,17 @@
       "logoText": "NG",
       "accent": "#88b6ff",
       "streamUrl": "http://45.162.193.35/NATGEO/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "int-naturaleza",
+      "name": "Naturaleza",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "documentales sobre naturaleza.",
+      "logoText": "N",
+      "accent": "#88b6ff",
+      "streamUrl": "https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8",
       "isYouTube": false
     },
     {
@@ -546,8 +586,19 @@
       ]
     },
     {
+      "id": "br-Futura",
+      "name": "Futura",
+      "country": "brasil",
+      "category": "Brasil",
+      "description": "Cultura y Comunicación.",
+      "logoText": "HIS",
+      "accent": "#f4b45f",
+      "streamUrl": "http://168.197.104.22/FUTURA/index.m3u8",
+      "isYouTube": false
+    },
+    {
       "id": "br-history-2",
-      "name": "History 2",
+      "name": "History2 Brasil",
       "country": "brasil",
       "category": "Brasil",
       "description": "Historia y cultura.",
@@ -569,6 +620,7 @@
       "accent": "#ff7e71",
       "streamUrl": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
       "isYouTube": false
+
     },
     {
       "id": "ar-Crónica TV",
@@ -600,7 +652,7 @@
       "description": "Noticias y análisis argentinos.",
       "logoText": "9",
       "accent": "#ff7e71",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/653399.ts",
+      "streamUrl": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8",
       "isYouTube": false
     },
     {
@@ -637,6 +689,7 @@
       "isYouTube": false
     },
     {
+     
       "id": "ar-telefe",
       "name": "Telefe",
       "country": "argentina",
@@ -665,17 +718,6 @@
       ]
     },
     {
-      "id": "ar-el-nueve",
-      "name": "El Nueve",
-      "country": "argentina",
-      "category": "Argentina",
-      "description": "Noticias y variedades.",
-      "logoText": "N9",
-      "accent": "#b99cff",
-      "streamUrl": "http://15.204.246.24:8080/elnueveHD/index.m3u8",
-      "isYouTube": false
-    },
-    {
       "id": "ar-el-trece",
       "name": "El Trece",
       "country": "argentina",
@@ -695,17 +737,6 @@
       "logoText": "C5N",
       "accent": "#ff9e6d",
       "streamUrl": "https://www.youtube.com/c/c5n/live",
-      "isYouTube": true
-    },
-    {
-      "id": "ar-ln-mas",
-      "name": "LN+",
-      "country": "argentina",
-      "category": "Argentina",
-      "description": "Noticias y análisis de La Nación.",
-      "logoText": "LN+",
-      "accent": "#c9a3ff",
-      "streamUrl": "https://www.youtube.com/c/LaNacionMas/live",
       "isYouTube": true
     },
     {
