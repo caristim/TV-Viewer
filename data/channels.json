@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.2",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -665,8 +665,8 @@
       "streamUrl": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/814570a0-08a1-405e-8e94-e7be698b5074:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8",
       "isYouTube": false,
       "streamHeaders": {
-        "Referer": "https://vmf.edge-apps.net/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+        "Referer": "https://vmf.edge-apps.net/"
       }
     },
     {
@@ -719,9 +719,9 @@
         "http://201.190.41.246:8822/play/a036/index.m3u8"
       ],
       "streamHeaders": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
         "Origin": "https://vmf.edge-apps.net",
-        "Referer": "https://vmf.edge-apps.net/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+        "Referer": "https://vmf.edge-apps.net/"
       }
     },
     {
