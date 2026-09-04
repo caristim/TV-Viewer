@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -620,7 +620,6 @@
       "accent": "#ff7e71",
       "streamUrl": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
       "isYouTube": false
-
     },
     {
       "id": "ar-Crónica TV",
@@ -663,8 +662,12 @@
       "description": "Noticias y análisis argentinos.",
       "logoText": "América",
       "accent": "#ff7e71",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314425.ts",
-      "isYouTube": false
+      "streamUrl": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/814570a0-08a1-405e-8e94-e7be698b5074:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8",
+      "isYouTube": false,
+      "streamHeaders": {
+        "Referer": "https://vmf.edge-apps.net/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+      }
     },
     {
       "id": "ar-canal-26",
@@ -689,7 +692,6 @@
       "isYouTube": false
     },
     {
-     
       "id": "ar-telefe",
       "name": "Telefe",
       "country": "argentina",
@@ -711,11 +713,16 @@
       "description": "Entretenimiento argentino.",
       "logoText": "TVP",
       "accent": "#ff8ca2",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314426.ts",
+      "streamUrl": "https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
         "http://201.190.41.246:8822/play/a036/index.m3u8"
-      ]
+      ],
+      "streamHeaders": {
+        "Origin": "https://vmf.edge-apps.net",
+        "Referer": "https://vmf.edge-apps.net/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+      }
     },
     {
       "id": "ar-el-trece",
