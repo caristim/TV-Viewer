@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -9,7 +9,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "C4",
       "accent": "#f4b45f",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314442.ts",
+      "streamUrl": "https://www.canal4.com.uy/",
       "isYouTube": true
     },
     {
@@ -64,7 +64,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "LaTele",
       "accent": "#7ebdff",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1371924.ts",
+      "streamUrl": "https://www.teledoce.com/envivo",
       "isYouTube": true
     },
     {
@@ -75,7 +75,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "VTV",
       "accent": "#9ce48d",
-      "streamUrl": "https://www.youtube.com/@VTVSitioOficial",
+      "streamUrl": "https://www.youtube.com/channel/UCA4VRT895OOPPHq-pc2V2CQ/live",
       "isYouTube": true
     },
     {
@@ -86,8 +86,8 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "TVC",
       "accent": "#65d4d4",
-      "streamUrl": "https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzg3MDczNzA3JnJhbmRvbT1kWk5kbDY0NGtzJmMtaXA9MTg2LjU0LjIxNC4xOTgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSxkMGVlYWIxM2E4MjA1YWU0MWEyOTdjMGNmNzRlMWRjMTI4YmU1YzE4NDIzYzFkMGNlZWM4YzY3ODVlNTFmNTkx/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8",
-      "isYouTube": false
+      "streamUrl": "https://www.youtube.com/@tvciudadim/live",
+      "isYouTube": true
     },
     {
       "id": "uy-a-mas-v",
@@ -97,7 +97,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "A+V",
       "accent": "#b99cff",
-      "streamUrl": "https://www.youtube.com/CanalAmasV",
+      "streamUrl": "https://www.youtube.com/CanalAmasV/live",
       "isYouTube": true
     },
     {
@@ -306,8 +306,8 @@
       "description": "Información de actualidad durante todo el día.",
       "logoText": "24H",
       "accent": "#ff7e71",
-      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-      "isYouTube": false
+      "streamUrl": "https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live",
+      "isYouTube": true
     },
     {
       "id": "int-dw",
@@ -339,8 +339,8 @@
       "description": "Actualidad y noticias de Chile.",
       "logoText": "CNN",
       "accent": "#f4b45f",
-      "streamUrl": "http://190.108.83.69:8000/play/a03p/index.m3u8",
-      "isYouTube": false
+      "streamUrl": "https://www.youtube.com/user/cnnchile/live",
+      "isYouTube": true
     },
     {
       "id": "int-cnn-portugal",
@@ -405,8 +405,8 @@
       "description": "Actualidad y documentales.",
       "logoText": "HTV",
       "accent": "#ffb773",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1104775.ts",
-      "isYouTube": false
+      "streamUrl": "https://www.hispantv.com/directo",
+      "isYouTube": true
     },
     {
       "id": "int-catalunya",
@@ -416,7 +416,8 @@
       "description": "Programación de Cataluña.",
       "logoText": "CAT",
       "accent": "#9ce48d",
-      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8"
+      "streamUrl": "https://www.3cat.cat/3cat/directes/tv3/",
+      "isYouTube": true
     },
     {
       "id": "int-history",
@@ -481,8 +482,8 @@
       "description": "Programación regional de Brasil.",
       "logoText": "BANDNEWS",
       "accent": "#79d2ff",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/868574.ts",
-      "isYouTube": false
+      "streamUrl": "https://www.youtube.com/channel/UCWijW6tW0iI5ghsAbWDFtTg/live",
+      "isYouTube": true
     },
     {
       "id": "br-record",
@@ -629,8 +630,8 @@
       "description": "Noticias y análisis argentinos.",
       "logoText": "Crónica",
       "accent": "#ff7e71",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/825860.ts",
-      "isYouTube": false
+      "streamUrl": "https://www.youtube.com/c/cronicatv/live",
+      "isYouTube": true
     },
     {
       "id": "ar-LN+",
@@ -662,12 +663,8 @@
       "description": "Noticias y análisis argentinos.",
       "logoText": "América",
       "accent": "#ff7e71",
-      "streamUrl": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/814570a0-08a1-405e-8e94-e7be698b5074:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8",
-      "isYouTube": false,
-      "streamHeaders": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
-        "Referer": "https://vmf.edge-apps.net/"
-      }
+      "streamUrl": "https://www.youtube.com/@americaenvivo/live",
+      "isYouTube": true
     },
     {
       "id": "ar-canal-26",
@@ -678,17 +675,6 @@
       "logoText": "C26",
       "accent": "#7ebdff",
       "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-      "isYouTube": false
-    },
-    {
-      "id": "ar-C5N",
-      "name": "C5N",
-      "country": "argentina",
-      "category": "Argentina",
-      "description": "Noticias y actualidad.",
-      "logoText": "C5N",
-      "accent": "#7ebdff",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314424.ts",
       "isYouTube": false
     },
     {
@@ -713,16 +699,8 @@
       "description": "Entretenimiento argentino.",
       "logoText": "TVP",
       "accent": "#ff8ca2",
-      "streamUrl": "https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8",
-      "isYouTube": false,
-      "alternativeUrls": [
-        "http://201.190.41.246:8822/play/a036/index.m3u8"
-      ],
-      "streamHeaders": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
-        "Origin": "https://vmf.edge-apps.net",
-        "Referer": "https://vmf.edge-apps.net/"
-      }
+      "streamUrl": "https://www.youtube.com/user/TVPublicaArgentina/live",
+      "isYouTube": true
     },
     {
       "id": "ar-el-trece",
