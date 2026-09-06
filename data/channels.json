@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.0.3",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -663,8 +663,11 @@
       "description": "Noticias y análisis argentinos.",
       "logoText": "América",
       "accent": "#ff7e71",
-      "streamUrl": "https://www.youtube.com/@americaenvivo/live",
-      "isYouTube": true
+      "streamUrl": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/814570a0-08a1-405e-8e94-e7be698b5074:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8",
+      "streamHeaders": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+        "Referer": "https://vmf.edge-apps.net/"
+      }
     },
     {
       "id": "ar-canal-26",
@@ -699,8 +702,12 @@
       "description": "Entretenimiento argentino.",
       "logoText": "TVP",
       "accent": "#ff8ca2",
-      "streamUrl": "https://www.youtube.com/user/TVPublicaArgentina/live",
-      "isYouTube": true
+      "streamUrl": "https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8",
+      "streamHeaders": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+        "Origin": "https://vmf.edge-apps.net",
+        "Referer": "https://vmf.edge-apps.net/"
+      }
     },
     {
       "id": "ar-el-trece",
