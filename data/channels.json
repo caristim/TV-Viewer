@@ -31,8 +31,8 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "DSPorts",
       "accent": "#f4b45f",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314448.ts",
-      "isYouTube": false
+      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCWSsHdxrwVLlOSdPJ44y9sw&autoplay=1",
+      "isYouTube": true
     },
     {
       "id": "uy-canal-5",
@@ -266,8 +266,19 @@
       "isYouTube": false
     },
     {
+      "id": "BandpSorts",
+      "name": "BandpSorts",
+      "country": "deportes",
+      "category": "Deportes",
+      "description": "Cobertura deportiva internacional.",
+      "logoText": "BS",
+      "accent": "#b99cff",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/868669.ts",
+      "isYouTube": false
+    },
+    {
       "id": "Sports-DSports1",
-      "name": "DSports",
+      "name": "DSports Argentina",
       "country": "deportes",
       "category": "Deportes",
       "description": "Cobertura deportiva internacional.",
@@ -721,5 +732,4 @@
       ],
       "streamHeaders": {
         "Origin": "https://vmf.edge-apps.net",
-        "Referer": "https://vmf.edge-apps.net/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko
+        "Referer": "https://vmf.edge-apps
