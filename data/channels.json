@@ -9,7 +9,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "C4",
       "accent": "#f4b45f",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCp6X5jzfmwbOeclRArOi18g&autoplay=1",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314442.ts",
       "isYouTube": true
     },
     {
@@ -21,7 +21,7 @@
       "logoText": "VTV+",
       "accent": "#f4b45f",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1103872.ts",
-      "isYouTube": false
+      "isYouTube": true
     },
     {
       "id": "uy-DirecTV Uruguay",
@@ -31,7 +31,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "DSPorts",
       "accent": "#f4b45f",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCWSsHdxrwVLlOSdPJ44y9sw&autoplay=1",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314448.ts",
       "isYouTube": true
     },
     {
@@ -53,8 +53,8 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "C10",
       "accent": "#ff8ca2",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCJI9kSwvvHX2CJeF8iZ6x8Q&autoplay=1",
-      "isYouTube": true
+      "streamUrl": "http://149.18.45.189:80/live/TEMARA/553F7FJS/1410780.m3u8",
+      "isYouTube": false
     },
     {
       "id": "uy-canal-12",
@@ -64,7 +64,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "LaTele",
       "accent": "#7ebdff",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCimPJKAbuM6z6b6DPZz86Mw&autoplay=1",
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1371924.ts",
       "isYouTube": true
     },
     {
@@ -75,29 +75,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "VTV",
       "accent": "#9ce48d",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCA4VRT895OOPPHq-pc2V2CQ&autoplay=1",
-      "isYouTube": true
-    },
-    {
-      "id": "uy-a-mas-v",
-      "name": "Canal A+V",
-      "country": "uruguay",
-      "category": "Uruguay",
-      "description": "Señal de televisión uruguaya.",
-      "logoText": "A+V",
-      "accent": "#b99cff",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCEo-n3nuExKkMEgFifsW8BQ&autoplay=1",
-      "isYouTube": true
-    },
-    {
-      "id": "uy-auf-tv",
-      "name": "AUF TV",
-      "country": "uruguay",
-      "category": "Uruguay",
-      "description": "Canal oficial de la Asociación Uruguaya de Fútbol.",
-      "logoText": "AUF",
-      "accent": "#74c0fc",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UC0jQd1_qQAT4an-dDaG1Sww&autoplay=1",
+      "streamUrl": "https://www.youtube.com/@VTVSitioOficial",
       "isYouTube": true
     },
     {
@@ -110,6 +88,17 @@
       "accent": "#65d4d4",
       "streamUrl": "https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzg3MDczNzA3JnJhbmRvbT1kWk5kbDY0NGtzJmMtaXA9MTg2LjU0LjIxNC4xOTgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSxkMGVlYWIxM2E4MjA1YWU0MWEyOTdjMGNmNzRlMWRjMTI4YmU1YzE4NDIzYzFkMGNlZWM4YzY3ODVlNTFmNTkx/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8",
       "isYouTube": false
+    },
+    {
+      "id": "uy-a-mas-v",
+      "name": "Canal A+V",
+      "country": "uruguay",
+      "category": "Uruguay",
+      "description": "Señal de televisión uruguaya.",
+      "logoText": "A+V",
+      "accent": "#b99cff",
+      "streamUrl": "https://www.youtube.com/CanalAmasV",
+      "isYouTube": true
     },
     {
       "id": "sports-gol-tv",
@@ -275,17 +264,19 @@
       "accent": "#b99cff",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/868669.ts",
       "isYouTube": false
+      "alternativeUrls": [
+      "http://45.185.11.126:8000/play/a05o/index.m3u8"
     },
     {
       "id": "Sports-DSports1",
-      "name": "DSports Argentina",
+      "name": "DSorts1 Argentina",
       "country": "deportes",
       "category": "Deportes",
       "description": "Cobertura deportiva internacional.",
-      "logoText": "DSP",
-      "accent": "#4ecdc4",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCWSsHdxrwVLlOSdPJ44y9sw&autoplay=1",
-      "isYouTube": true
+      "logoText": "BS",
+      "accent": "#b99cff",
+      "streamUrl": "http://149.18.45.189:80/live/TEMARA/553F7FJS/1410777.m3u8",
+      "isYouTube": false
     },
     {
       "id": "Sports-DSports2",
@@ -427,8 +418,7 @@
       "description": "Programación de Cataluña.",
       "logoText": "CAT",
       "accent": "#9ce48d",
-      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8",
-      "isYouTube": false
+      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8"
     },
     {
       "id": "int-history",
@@ -452,6 +442,17 @@
       "streamUrl": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
       "isYouTube": false
     },
+       {
+      "id": "int-Animal Planet",
+      "name": "Animal Planet",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Ciencia, naturaleza y exploración.",
+      "logoText": "NG",
+      "accent": "#88b6ff",
+      "streamUrl": "http://45.185.11.126:8000/play/a09k/index.m3u8",
+      "isYouTube": false
+    },            
     {
       "id": "int-nat-geo",
       "name": "Nat Geo",
@@ -495,6 +496,8 @@
       "accent": "#79d2ff",
       "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/868574.ts",
       "isYouTube": false
+      "alternativeUrls": [
+      "http://45.185.11.126:8000/play/a076/index.m3u8"
     },
     {
       "id": "br-record",
@@ -518,6 +521,7 @@
       "streamUrl": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
+        "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
         "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8",
         "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL"
       ]
@@ -652,8 +656,8 @@
       "description": "Noticias y análisis argentinos.",
       "logoText": "LN+",
       "accent": "#ff7e71",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCba3hpU7EFBSk817y9qZkiA&autoplay=1",
-      "isYouTube": true
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/825779.ts",
+      "isYouTube": false
     },
     {
       "id": "ar-EL Nueve",
@@ -700,8 +704,8 @@
       "description": "Noticias y actualidad.",
       "logoText": "C5N",
       "accent": "#7ebdff",
-      "streamUrl": "https://www.youtube.com/embed/live_stream?channel=UCFgk2Q2mVO1BklRQhSv6p0w&autoplay=1",
-      "isYouTube": true
+      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314424.ts",
+      "isYouTube": false
     },
     {
       "id": "ar-telefe",
@@ -732,4 +736,53 @@
       ],
       "streamHeaders": {
         "Origin": "https://vmf.edge-apps.net",
-        "Referer": "https://vmf.edge-apps
+        "Referer": "https://vmf.edge-apps.net/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+      }
+    },
+    {
+      "id": "ar-el-trece",
+      "name": "El Trece",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Entretenimiento y ficción argentina.",
+      "logoText": "T13",
+      "accent": "#67d69f",
+      "streamUrl": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-c5n",
+      "name": "C5N",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Noticias y actualidad en vivo.",
+      "logoText": "C5N",
+      "accent": "#ff9e6d",
+      "streamUrl": "https://www.youtube.com/c/c5n/live",
+      "isYouTube": true
+    },
+    {
+      "id": "ar-tn",
+      "name": "TN",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Todo Noticias, información 24 horas.",
+      "logoText": "TN",
+      "accent": "#ff5c5c",
+      "streamUrl": "https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8",
+      "isYouTube": false
+    },
+    {
+      "id": "ar-dsports",
+      "name": "DSports",
+      "country": "argentina",
+      "category": "Argentina",
+      "description": "Deportes argentinos e internacionales.",
+      "logoText": "DSP",
+      "accent": "#4ecdc4",
+      "streamUrl": "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8",
+      "isYouTube": false
+    }
+  ]
+}
