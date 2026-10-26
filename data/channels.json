@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -310,6 +310,8 @@
       "accent": "#ff7e71",
       "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
       "isYouTube": false
+      "alternativeUrls": [
+      "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     },
     {
       "id": "int-dw",
@@ -419,6 +421,20 @@
       "logoText": "CAT",
       "accent": "#9ce48d",
       "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8"
+      "alternativeUrls": [
+      "https://ztnr.rtve.es/ztnr/4952053.m3u8"
+    },
+    {
+      "id": "int-HispanTV",
+      "name": "HispanTV",
+      "country": "internacionales",
+      "category": "Internacionales",
+      "description": "Programación de Irán.",
+      "logoText": "IR",
+      "accent": "#9ce48d",
+      "streamUrl": "https://live.presstv.ir/hls/hispantv.m3u8"
+      "alternativeUrls": [
+
     },
     {
       "id": "int-history",
@@ -636,6 +652,8 @@
       "accent": "#ff7e71",
       "streamUrl": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
       "isYouTube": false
+      "alternativeUrls": [
+      "http://138.59.227.20:8000/play/a05u/index.m3u8"
     },
     {
       "id": "ar-Crónica TV",
@@ -669,6 +687,8 @@
       "accent": "#ff7e71",
       "streamUrl": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8",
       "isYouTube": false
+      "alternativeUrls": [
+      "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"
     },
     {
       "id": "ar-América",
@@ -683,6 +703,8 @@
       "streamHeaders": {
         "Referer": "https://vmf.edge-apps.net/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+      "alternativeUrls": [
+      "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
       }
     },
     {
