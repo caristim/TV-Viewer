@@ -1,39 +1,6 @@
 {
-  "version": "1.0.5",
+  "version": "1.2.0",
   "channels": [
-    {
-      "id": "uy-canal-4",
-      "name": "Canal 4",
-      "country": "uruguay",
-      "category": "Uruguay",
-      "description": "Señal de televisión uruguaya.",
-      "logoText": "C4",
-      "accent": "#f4b45f",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314442.ts",
-      "isYouTube": true
-    },
-    {
-      "id": "uy-VTV Plus",
-      "name": "VTV+",
-      "country": "uruguay",
-      "category": "Uruguay",
-      "description": "Señal de televisión uruguaya.",
-      "logoText": "VTV+",
-      "accent": "#f4b45f",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1103872.ts",
-      "isYouTube": true
-    },
-    {
-      "id": "uy-DirecTV Uruguay",
-      "name": "DSports",
-      "country": "uruguay",
-      "category": "Uruguay",
-      "description": "Señal de televisión uruguaya.",
-      "logoText": "DSPorts",
-      "accent": "#f4b45f",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314448.ts",
-      "isYouTube": true
-    },
     {
       "id": "uy-canal-5",
       "name": "Canal 5",
@@ -64,7 +31,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "LaTele",
       "accent": "#7ebdff",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1371924.ts",
+      "streamUrl": "https://www.teledoce.com/envivo",
       "isYouTube": true
     },
     {
@@ -75,7 +42,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "VTV",
       "accent": "#9ce48d",
-      "streamUrl": "https://www.youtube.com/@VTVSitioOficial",
+      "streamUrl": "https://www.youtube.com/@VTVSitioOficial/live",
       "isYouTube": true
     },
     {
@@ -86,8 +53,8 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "TVC",
       "accent": "#65d4d4",
-      "streamUrl": "https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzg3MDczNzA3JnJhbmRvbT1kWk5kbDY0NGtzJmMtaXA9MTg2LjU0LjIxNC4xOTgmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSxkMGVlYWIxM2E4MjA1YWU0MWEyOTdjMGNmNzRlMWRjMTI4YmU1YzE4NDIzYzFkMGNlZWM4YzY3ODVlNTFmNTkx/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8",
-      "isYouTube": false
+      "streamUrl": "https://www.youtube.com/@tvciudadim/live",
+      "isYouTube": true
     },
     {
       "id": "uy-a-mas-v",
@@ -97,7 +64,7 @@
       "description": "Señal de televisión uruguaya.",
       "logoText": "A+V",
       "accent": "#b99cff",
-      "streamUrl": "https://www.youtube.com/CanalAmasV",
+      "streamUrl": "https://www.youtube.com/CanalAmasV/live",
       "isYouTube": true
     },
     {
@@ -262,10 +229,8 @@
       "description": "Cobertura deportiva internacional.",
       "logoText": "BS",
       "accent": "#b99cff",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/868669.ts",
+      "streamUrl": "http://45.185.11.126:8000/play/a05o/index.m3u8",
       "isYouTube": false
-      "alternativeUrls": [
-      "http://45.185.11.126:8000/play/a05o/index.m3u8"
     },
     {
       "id": "Sports-DSports1",
@@ -308,10 +273,8 @@
       "description": "Información de actualidad durante todo el día.",
       "logoText": "24H",
       "accent": "#ff7e71",
-      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
-      "isYouTube": false
-      "alternativeUrls": [
-      "https://ztnr.rtve.es/ztnr/1694255.m3u8"
+      "streamUrl": "https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live",
+      "isYouTube": true
     },
     {
       "id": "int-dw",
@@ -402,17 +365,6 @@
       "isYouTube": false
     },
     {
-      "id": "int-hispan-tv",
-      "name": "Hispan TV",
-      "country": "internacionales",
-      "category": "Internacionales",
-      "description": "Actualidad y documentales.",
-      "logoText": "HTV",
-      "accent": "#ffb773",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1104775.ts",
-      "isYouTube": false
-    },
-    {
       "id": "int-catalunya",
       "name": "Catalunya",
       "country": "internacionales",
@@ -420,9 +372,8 @@
       "description": "Programación de Cataluña.",
       "logoText": "CAT",
       "accent": "#9ce48d",
-      "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_720.m3u8"
-      "alternativeUrls": [
-      "https://ztnr.rtve.es/ztnr/4952053.m3u8"
+      "streamUrl": "https://www.3cat.cat/3cat/directes/tv3/",
+      "isYouTube": true
     },
     {
       "id": "int-HispanTV",
@@ -433,8 +384,6 @@
       "logoText": "IR",
       "accent": "#9ce48d",
       "streamUrl": "https://live.presstv.ir/hls/hispantv.m3u8"
-      "alternativeUrls": [
-
     },
     {
       "id": "int-history",
@@ -458,7 +407,7 @@
       "streamUrl": "http://138.121.15.230:9002/HISTORY-2/index.m3u8",
       "isYouTube": false
     },
-       {
+    {
       "id": "int-Animal Planet",
       "name": "Animal Planet",
       "country": "internacionales",
@@ -468,7 +417,7 @@
       "accent": "#88b6ff",
       "streamUrl": "http://45.185.11.126:8000/play/a09k/index.m3u8",
       "isYouTube": false
-    },            
+    },
     {
       "id": "int-nat-geo",
       "name": "Nat Geo",
@@ -510,10 +459,8 @@
       "description": "Programación regional de Brasil.",
       "logoText": "BANDNEWS",
       "accent": "#79d2ff",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/868574.ts",
+      "streamUrl": "http://45.185.11.126:8000/play/a076/index.m3u8",
       "isYouTube": false
-      "alternativeUrls": [
-      "http://45.185.11.126:8000/play/a076/index.m3u8"
     },
     {
       "id": "br-record",
@@ -537,7 +484,7 @@
       "streamUrl": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"
+        "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
         "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8",
         "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL"
       ]
@@ -651,9 +598,10 @@
       "logoText": "A24",
       "accent": "#ff7e71",
       "streamUrl": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true",
-      "isYouTube": false
+      "isYouTube": false,
       "alternativeUrls": [
-      "http://138.59.227.20:8000/play/a05u/index.m3u8"
+        "http://138.59.227.20:8000/play/a05u/index.m3u8"
+      ]
     },
     {
       "id": "ar-Crónica TV",
@@ -663,19 +611,8 @@
       "description": "Noticias y análisis argentinos.",
       "logoText": "Crónica",
       "accent": "#ff7e71",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/825860.ts",
-      "isYouTube": false
-    },
-    {
-      "id": "ar-LN+",
-      "name": "LN+",
-      "country": "argentina",
-      "category": "Argentina",
-      "description": "Noticias y análisis argentinos.",
-      "logoText": "LN+",
-      "accent": "#ff7e71",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/825779.ts",
-      "isYouTube": false
+      "streamUrl": "https://www.youtube.com/c/cronicatv/live",
+      "isYouTube": true
     },
     {
       "id": "ar-EL Nueve",
@@ -686,9 +623,10 @@
       "logoText": "9",
       "accent": "#ff7e71",
       "streamUrl": "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8",
-      "isYouTube": false
+      "isYouTube": false,
       "alternativeUrls": [
-      "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"
+        "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8"
+      ]
     },
     {
       "id": "ar-América",
@@ -702,9 +640,10 @@
       "isYouTube": false,
       "streamHeaders": {
         "Referer": "https://vmf.edge-apps.net/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
-      "alternativeUrls": [
-      "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+        "alternativeUrls": [
+          "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
+        ]
       }
     },
     {
@@ -716,17 +655,6 @@
       "logoText": "C26",
       "accent": "#7ebdff",
       "streamUrl": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-      "isYouTube": false
-    },
-    {
-      "id": "ar-C5N",
-      "name": "C5N",
-      "country": "argentina",
-      "category": "Argentina",
-      "description": "Noticias y actualidad.",
-      "logoText": "C5N",
-      "accent": "#7ebdff",
-      "streamUrl": "http://aioplus.es:80/live/ab2091110925e0879eb6a23add06a571/1314424.ts",
       "isYouTube": false
     },
     {
@@ -753,9 +681,6 @@
       "accent": "#ff8ca2",
       "streamUrl": "https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8",
       "isYouTube": false,
-      "alternativeUrls": [
-        "http://201.190.41.246:8822/play/a036/index.m3u8"
-      ],
       "streamHeaders": {
         "Origin": "https://vmf.edge-apps.net",
         "Referer": "https://vmf.edge-apps.net/",
