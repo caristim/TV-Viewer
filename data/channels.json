@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -505,10 +505,9 @@
       "description": "Ciencia, naturaleza y exploración.",
       "logoText": "AP",
       "accent": "#88b6ff",
-      "streamUrl": "http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8",
+      "streamUrl": "http://45.185.11.126:8000/play/a09k/index.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "http://45.185.11.126:8000/play/a09k/index.m3u8",
         "http://190.128.214.97:64333/play/a01n/index.m3u8"
       ]
     },
@@ -735,7 +734,8 @@
       "accent": "#ff7e71",
       "streamUrl": "https://www.youtube.com/c/cronicatv/live",
       "isYouTube": true
-       {
+    },
+    {
       "id": "ar-el-nueve",
       "name": "9",
       "country": "argentina",
@@ -818,7 +818,7 @@
       "description": "Entretenimiento y ficción argentina.",
       "logoText": "T13",
       "accent": "#67d69f",
-      "streamUrl": "http://38.44.109.41:8003/play/a0f",
+      "streamUrl": "https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
         "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8"
