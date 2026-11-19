@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "channels": [
     {
       "id": "uy-canal-4",
@@ -134,10 +134,10 @@
       "description": "Cobertura deportiva adicional.",
       "logoText": "E3",
       "accent": "#ff6666",
-      "streamUrl": "http://190.83.2.182:8090/ESPN3/index.m3u8",
+      "streamUrl": "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8"
+        "http://190.83.2.182:8090/ESPN3/index.m3u8"
       ]
     },
     {
@@ -270,10 +270,10 @@
       "description": "Noticias y eventos deportivos.",
       "logoText": "TYC",
       "accent": "#ff8ca2",
-      "streamUrl": "http://45.181.87.106/TYCSPORTSHD/index.m3u8",
+      "streamUrl": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+        "http://45.181.87.106/TYCSPORTSHD/index.m3u8"
       ]
     },
     {
@@ -417,8 +417,8 @@
       "streamUrl": "https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60089d97f682a3002c34829d/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F",
-        "https://iptv.bitred.cl/euronews/index.m3u8"
+        "https://iptv.bitred.cl/euronews/index.m3u8",
+        "https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-60089d97f682a3002c34829d/?X-Plex-Token=2gtqC_idx-Kx-Ykn9C4F"
       ]
     },
     {
@@ -524,7 +524,6 @@
       "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8",
         "http://15.204.246.24:8080/HistoryHD/index.m3u8"
       ]
     },
@@ -590,11 +589,11 @@
       "description": "Programación regional de Brasil.",
       "logoText": "BANDNEWS",
       "accent": "#79d2ff",
-      "streamUrl": "http://45.185.11.126:8000/play/a076/index.m3u8",
+      "streamUrl": "http://170.83.49.66:8083/BANDNEWSHD/index.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "http://45.162.231.38:7779/Band_News/index.m3u8",
-        "http://170.83.49.66:8083/BANDNEWSHD/index.m3u8"
+        "http://45.185.11.126:8000/play/a076/index.m3u8",
+        "http://45.162.231.38:7779/Band_News/index.m3u8"
       ]
     },
     {
@@ -606,10 +605,7 @@
       "logoText": "BAND",
       "accent": "#79d2ff",
       "streamUrl": "http://45.190.28.50/BAND_HD/index.m3u8",
-      "isYouTube": false,
-      "alternativeUrls": [
-        "https://iptv-org.github.io/iptv/countries/br.m3u"
-      ]
+      "isYouTube": false
     },
     {
       "id": "br-record-news",
@@ -619,13 +615,13 @@
       "description": "Noticias de Brasil.",
       "logoText": "RN",
       "accent": "#88b6ff",
-      "streamUrl": "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+      "streamUrl": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
         "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8",
-        "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL",
-        "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8"
+        "http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8",
+        "http://45.162.64.114/RECORD_NEWS/index.m3u8",
+        "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL"
       ]
     },
     {
@@ -665,10 +661,10 @@
       "description": "Programación general brasileña.",
       "logoText": "REC",
       "accent": "#ff8ca2",
-      "streamUrl": "http://45.190.28.50/RECORD/index.m3u8",
+      "streamUrl": "http://200.77.176.130:8000/udp/224.0.0.4:49152",
       "isYouTube": false,
       "alternativeUrls": [
-        "http://200.77.176.130:8000/udp/224.0.0.4:49152"
+        "http://45.190.28.50/RECORD/index.m3u8"
       ]
     },
     {
@@ -679,12 +675,12 @@
       "description": "Entretenimiento y actualidad.",
       "logoText": "RTV",
       "accent": "#65d4d4",
-      "streamUrl": "http://45.190.28.50/REDE_TV_HD/index.m3u8",
+      "streamUrl": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "https://streaming.cloudecast.com/hls/redetves/index.m3u8",
-        "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8",
-        "http://186.219.52.187/rede_tv/index.m3u8"
+        "http://186.219.52.187/rede_tv/index.m3u8",
+        "http://45.190.28.50/REDE_TV_HD/index.m3u8",
+        "https://streaming.cloudecast.com/hls/redetves/index.m3u8"
       ]
     },
     {
@@ -695,12 +691,12 @@
       "description": "Televisión brasileña para toda la familia.",
       "logoText": "SBT",
       "accent": "#7ebdff",
-      "streamUrl": "http://45.190.28.50/SBT_HD/index.m3u8",
+      "streamUrl": "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8",
         "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-        "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
+        "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+        "http://45.190.28.50/SBT_HD/index.m3u8"
       ]
     },
     {
@@ -711,14 +707,14 @@
       "description": "Noticias, novelas y entretenimiento.",
       "logoText": "GLO",
       "accent": "#9ce48d",
-      "streamUrl": "http://45.190.28.50/GLOBO_HD/index.m3u8",
+      "streamUrl": "https://signal.teleon.live/play/GxY2akI0WkGhmjbd0L6jBZSpDPzOjzwGLdYp3KIhp6hdxj3AB0Xx6B7VVRsxrV6wvcUloi2oBpFjiJxdfoXbt2yxUSNm6Vr5FTDs1GE.m3u8?token=test",
       "isYouTube": false,
       "alternativeUrls": [
+        "http://79.127.238.228:14173",
+        "http://45.190.28.50/GLOBO_HD/index.m3u8",
         "https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq",
-        "https://signal.teleon.live/play/GxY2akI0WkGhmjbd0L6jBZSpDPzOjzwGLdYp3KIhp6hdxj3AB0Xx6B7VVRsxrV6wvcUloi2oBpFjiJxdfoXbt2yxUSNm6Vr5FTDs1GE.m3u8?token=test",
         "http://187.62.68.32:8080/GLOBO/index.m3u8",
-        "http://138.255.2.6:8084/GLOBOHD/index.m3u8",
-        "http://79.127.238.228:14173"
+        "http://138.255.2.6:8084/GLOBOHD/index.m3u8"
       ]
     },
     {
@@ -729,11 +725,11 @@
       "description": "Historia y documentales.",
       "logoText": "HIS",
       "accent": "#f4b45f",
-      "streamUrl": "http://45.190.28.50/HISTORY_HD/index.m3u8",
+      "streamUrl": "http://170.83.16.50/HISTORY/index.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "http://45.177.114.114/HISTORY/index.m3u8",
-        "http://170.83.16.50/HISTORY/index.m3u8"
+        "http://45.190.28.50/HISTORY_HD/index.m3u8",
+        "http://45.177.114.114/HISTORY/index.m3u8"
       ]
     },
     {
@@ -838,8 +834,8 @@
       "streamUrl": "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "http://201.190.41.246:8822/play/a036/index.m3u8",
-        "http://45.173.231.22:8000/play/a053/index.m3u8"
+        "http://45.173.231.22:8000/play/a053/index.m3u8",
+        "http://201.190.41.246:8822/play/a036/index.m3u8"
       ]
     },
     {
@@ -852,9 +848,6 @@
       "accent": "#ff8ca2",
       "streamUrl": "https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8",
       "isYouTube": false,
-      "alternativeUrls": [
- 
-      ],
       "streamHeaders": {
         "Origin": "https://vmf.edge-apps.net",
         "Referer": "https://vmf.edge-apps.net/",
@@ -869,10 +862,10 @@
       "description": "Entretenimiento y ficción argentina.",
       "logoText": "T13",
       "accent": "#67d69f",
-      "streamUrl": "http://38.44.109.41:8003/play/a0f",
+      "streamUrl": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
-        "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8"
+        "http://38.44.109.41:8003/play/a0f"
       ]
     },
     {
