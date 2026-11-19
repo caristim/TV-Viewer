@@ -594,9 +594,10 @@
       "description": "Programación regional de Brasil.",
       "logoText": "BAND",
       "accent": "#79d2ff",
-      "streamUrl": "http://170.84.165.204/BAND_HD/index.m3u8",
+      "streamUrl": "https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/2962d989-3892-4f8e-b972-0f121c808479:SCL2/variant/7f6c6497a9e14125a6473c781cac68d1/bandwidth/4766400.m3u8",
       "isYouTube": false,
       "alternativeUrls": [
+        "http://170.84.165.204/BAND_HD/index.m3u8"
         "https://media.cdntvms.com.br/band_sat/index.m3u8",
         "http://45.190.28.50/BAND_HD/index.m3u8"
       ]
